@@ -4,6 +4,7 @@
   "deploy_individual_repo": true,
   "repo_url": "https://github.com/alvapcompany/alvap-studio",
   "pages_url": "https://alvapcompany.github.io/alvap-studio/",
+  "dashboard_url": "https://alvapcompany.github.io/alvap-studio/dashboard.html",
   "nombre_negocio": "Alvap Digital Studio",
   "categoria": "Agencia Digital & NFC",
   "descripcion": "Soluciones digitales de alto impacto, tarjetas inteligentes NFC y diseño web.",
